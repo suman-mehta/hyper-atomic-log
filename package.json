@@ -1,0 +1,14 @@
+{
+  "name": "hyper-atomic-log",
+  "version": "1.0.0",
+  "description": "Lock‑Free Persistent Circular Log for Ultra‑Low‑Latency Node.js Workers",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "author": "Suman Mehta",
+  "license": "MIT"
+}
